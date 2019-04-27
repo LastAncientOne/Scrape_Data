@@ -2,7 +2,7 @@
 Scraping Data from Twitter, Facebook, Yahoo, and other websites
 
 ## Scraping data in Twitter:  
-In CMD:
+In CMD:  
 Type: python twitter_streaming.py  
 If you want to stop scrapying:  
 Crtl+C  
