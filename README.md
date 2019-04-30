@@ -1,2 +1,2 @@
 # Scraping Data
-Scraping Data from Twitter, Facebook, Yahoo, and other websites
+Scraping Data from Twitter, Facebook, Yahoo, Seek Alpha, and other websites
