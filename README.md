@@ -2,4 +2,7 @@
 
 # Scraping Data  
 ## Descriptions:  
-Scraping Data from Twitter, Facebook, Yahoo, Seek Alpha, and other websites
+Scraping Data from Twitter, Facebook, Yahoo, Seek Alpha, and other websites  
+
+## Authors  
+### * Tin Hang
